@@ -5,10 +5,7 @@
   "angular-cli": {},
   "scripts": {
     "start": "ng serve --port 80",
-    "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
-    "pree2e": "webdriver-manager update",
-    "e2e": "protractor"
   },
   "private": true,
   "dependencies": {
