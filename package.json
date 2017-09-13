@@ -4,8 +4,7 @@
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
-    "start": "ng serve --port 80",
-    "test": "ng test",
+    "test": "ng test"
   },
   "private": true,
   "dependencies": {
