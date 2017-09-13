@@ -10,3 +10,6 @@ You didn't specify any range for the medias, but as I understand the instruction
 
 ### Q3+4:
 npm start
+
+### Q5:
+npm test
